@@ -1,0 +1,11 @@
+C:\Users\kubalone\Desktop\RSS\RSS.Data\bin\Release\netcoreapp2.2\RSS.Data.deps.json
+C:\Users\kubalone\Desktop\RSS\RSS.Data\bin\Release\netcoreapp2.2\RSS.Data.runtimeconfig.json
+C:\Users\kubalone\Desktop\RSS\RSS.Data\bin\Release\netcoreapp2.2\RSS.Data.runtimeconfig.dev.json
+C:\Users\kubalone\Desktop\RSS\RSS.Data\bin\Release\netcoreapp2.2\RSS.Data.dll
+C:\Users\kubalone\Desktop\RSS\RSS.Data\bin\Release\netcoreapp2.2\RSS.Data.pdb
+C:\Users\kubalone\Desktop\RSS\RSS.Data\obj\Release\netcoreapp2.2\RSS.Data.csproj.CoreCompileInputs.cache
+C:\Users\kubalone\Desktop\RSS\RSS.Data\obj\Release\netcoreapp2.2\RSS.Data.AssemblyInfoInputs.cache
+C:\Users\kubalone\Desktop\RSS\RSS.Data\obj\Release\netcoreapp2.2\RSS.Data.AssemblyInfo.cs
+C:\Users\kubalone\Desktop\RSS\RSS.Data\obj\Release\netcoreapp2.2\RSS.Data.dll
+C:\Users\kubalone\Desktop\RSS\RSS.Data\obj\Release\netcoreapp2.2\RSS.Data.pdb
+C:\Users\kubalone\Desktop\RSS\RSS.Data\obj\Release\netcoreapp2.2\RSS.Data.csprojAssemblyReference.cache

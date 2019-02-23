@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>ConsoleApp1.BenchmarkTest</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet=v0.11.3, OS=Windows 10.0.17134.590 (1803/April2018Update/Redstone4)
+Intel Core2 Duo CPU E7200 2.53GHz, 1 CPU, 2 logical and 2 physical cores
+Frequency=2473956 Hz, Resolution=404.2109 ns, Timer=TSC
+.NET Core SDK=3.0.100-preview-010184
+  [Host]     : .NET Core ? (CoreCLR 4.6.27129.04, CoreFX 4.6.27129.04), 32bit RyuJIT
+  DefaultJob : .NET Core 2.1.8 (CoreCLR 4.6.27317.03, CoreFX 4.6.27317.03), 32bit RyuJIT
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th> Method</th><th>Mean</th><th>Error</th><th>StdDev</th><th>Gen 0/1k Op</th><th>Gen 1/1k Op</th><th>Gen 2/1k Op</th><th>Allocated Memory/Op</th>
+</tr>
+</thead><tbody><tr><td>AddToDatabase</td><td>686.4 us</td><td>31.26 us</td><td>89.70 us</td><td>-</td><td>-</td><td>-</td><td>23.23 KB</td>
+</tr></tbody></table>
+</body>
+</html>

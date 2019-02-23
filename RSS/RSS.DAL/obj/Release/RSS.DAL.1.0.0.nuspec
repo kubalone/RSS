@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>RSS.DAL</id>
+    <version>1.0.0</version>
+    <authors>RSS.DAL</authors>
+    <owners>RSS.DAL</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.2">
+        <dependency id="RSS.Data" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="BenchmarkDotNet" version="0.11.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="2.2.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="2.2.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\kubalone\Desktop\RSS\RSS.DAL\bin\Release\netcoreapp2.2\RSS.DAL.dll" target="lib\netcoreapp2.2\RSS.DAL.dll" />
+  </files>
+</package>

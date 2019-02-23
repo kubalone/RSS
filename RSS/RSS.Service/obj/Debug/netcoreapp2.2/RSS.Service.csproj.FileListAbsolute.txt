@@ -1,0 +1,14 @@
+C:\Users\kubalone\Desktop\RSS\RSS.Service\bin\Debug\netcoreapp2.2\RSS.Service.deps.json
+C:\Users\kubalone\Desktop\RSS\RSS.Service\bin\Debug\netcoreapp2.2\RSS.Service.dll
+C:\Users\kubalone\Desktop\RSS\RSS.Service\bin\Debug\netcoreapp2.2\RSS.Service.pdb
+C:\Users\kubalone\Desktop\RSS\RSS.Service\bin\Debug\netcoreapp2.2\RSS.DAL.dll
+C:\Users\kubalone\Desktop\RSS\RSS.Service\bin\Debug\netcoreapp2.2\RSS.Data.dll
+C:\Users\kubalone\Desktop\RSS\RSS.Service\bin\Debug\netcoreapp2.2\RSS.DAL.pdb
+C:\Users\kubalone\Desktop\RSS\RSS.Service\bin\Debug\netcoreapp2.2\RSS.Data.pdb
+C:\Users\kubalone\Desktop\RSS\RSS.Service\obj\Debug\netcoreapp2.2\RSS.Service.csprojAssemblyReference.cache
+C:\Users\kubalone\Desktop\RSS\RSS.Service\obj\Debug\netcoreapp2.2\RSS.Service.csproj.CoreCompileInputs.cache
+C:\Users\kubalone\Desktop\RSS\RSS.Service\obj\Debug\netcoreapp2.2\RSS.Service.AssemblyInfoInputs.cache
+C:\Users\kubalone\Desktop\RSS\RSS.Service\obj\Debug\netcoreapp2.2\RSS.Service.AssemblyInfo.cs
+C:\Users\kubalone\Desktop\RSS\RSS.Service\obj\Debug\netcoreapp2.2\RSS.Service.csproj.CopyComplete
+C:\Users\kubalone\Desktop\RSS\RSS.Service\obj\Debug\netcoreapp2.2\RSS.Service.dll
+C:\Users\kubalone\Desktop\RSS\RSS.Service\obj\Debug\netcoreapp2.2\RSS.Service.pdb

@@ -1,0 +1,12 @@
+C:\Users\kubalone\Desktop\RSS\RSS.DAL\bin\Release\netcoreapp2.2\RSS.DAL.deps.json
+C:\Users\kubalone\Desktop\RSS\RSS.DAL\bin\Release\netcoreapp2.2\RSS.DAL.dll
+C:\Users\kubalone\Desktop\RSS\RSS.DAL\bin\Release\netcoreapp2.2\RSS.DAL.pdb
+C:\Users\kubalone\Desktop\RSS\RSS.DAL\bin\Release\netcoreapp2.2\RSS.Data.dll
+C:\Users\kubalone\Desktop\RSS\RSS.DAL\bin\Release\netcoreapp2.2\RSS.Data.pdb
+C:\Users\kubalone\Desktop\RSS\RSS.DAL\obj\Release\netcoreapp2.2\RSS.DAL.csprojAssemblyReference.cache
+C:\Users\kubalone\Desktop\RSS\RSS.DAL\obj\Release\netcoreapp2.2\RSS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kubalone\Desktop\RSS\RSS.DAL\obj\Release\netcoreapp2.2\RSS.DAL.AssemblyInfoInputs.cache
+C:\Users\kubalone\Desktop\RSS\RSS.DAL\obj\Release\netcoreapp2.2\RSS.DAL.AssemblyInfo.cs
+C:\Users\kubalone\Desktop\RSS\RSS.DAL\obj\Release\netcoreapp2.2\RSS.DAL.csproj.CopyComplete
+C:\Users\kubalone\Desktop\RSS\RSS.DAL\obj\Release\netcoreapp2.2\RSS.DAL.dll
+C:\Users\kubalone\Desktop\RSS\RSS.DAL\obj\Release\netcoreapp2.2\RSS.DAL.pdb
